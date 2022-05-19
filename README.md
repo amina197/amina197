@@ -1,6 +1,6 @@
 # Hi, I'm Amina 👋
 
-### About
+## About
 - 🔭 I’m currently working on a **Food recipes application**
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about anything
@@ -8,8 +8,8 @@
   - [amina.thiam.pro@gmail.com](mailto:amina.thiam.pro@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/aminathiam/)
 
----
-### Technologies
+
+## Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
@@ -26,7 +26,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
-### Activity
+
+## Activity
 
 [![Amina's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina197&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/amina197)
 
