@@ -1,4 +1,5 @@
 # Hi, I'm Amina 👋
+![./controllers_brief.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## About
 - 🔭 I’m currently working on a **Food recipes application**
