@@ -25,11 +25,15 @@
 ![AWS EC2](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?logo=adobe-creative-cloud&logoColor=white&style=for-the-badge)
 
 
 ## Activity
-
-[![Amina's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina197&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/amina197)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amina197&theme=vue)](https://git.io/streak-stats)
 
 
 
