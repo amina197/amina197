@@ -33,7 +33,7 @@
 
 
 ## Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amina197&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amina197&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
