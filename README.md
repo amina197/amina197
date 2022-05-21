@@ -2,7 +2,7 @@
 ![./controllers_brief.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## About
-- 🔭 I’m currently working on a **Food recipes application**
+- 🔭 I’m currently working on Miammy, a **Food recipes application**
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about anything
 - 📫 How to reach me: 
