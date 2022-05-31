@@ -1,7 +1,7 @@
 # Hi, I'm Amina 👋
 
 ## About
-- 🔭 I’m currently working on Miammy, a **Food recipes application**
+- 🔭 I’m currently working on **Miammy**, a **Food recipes application**
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about anything
 - 📫 How to reach me: 
