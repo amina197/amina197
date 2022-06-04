@@ -1,7 +1,7 @@
 # Hi, I'm Amina 👋
 
 ## About
-- 🔭 I’m currently working on **Miammy**, a **Food recipes app**
+- 🔭 I’m currently adding new features to **Miammy**, a **Food recipe app** and building a **Habit tracker mobile app** with React Native and Typescript
 - 🌱 I’m currently learning **Typescript** and **React Native**
 - 💬 Ask me about anything
 - 📫 How to reach me: 
