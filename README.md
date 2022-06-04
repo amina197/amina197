@@ -1,8 +1,8 @@
 # Hi, I'm Amina 👋
 
 ## About
-- 🔭 I’m currently working on **Miammy**, a **Food recipes application**
-- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently working on **Miammy**, a **Food recipes app**
+- 🌱 I’m currently learning **Typescript** and **React Native**
 - 💬 Ask me about anything
 - 📫 How to reach me: 
   - [amina.thiam.pro@gmail.com](mailto:amina.thiam.pro@gmail.com)
