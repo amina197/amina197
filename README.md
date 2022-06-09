@@ -2,7 +2,7 @@
 
 ## About
 - 🔭 I’m currently adding new features to Miammy, a **Food recipe app** and building a **Productivity app** with React Native and Typescript
-- 🌱 I’m currently learning **Typescript** and **React Native**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about anything
 - 📫 How to reach me: 
   - [amina.thiam.pro@gmail.com](mailto:amina.thiam.pro@gmail.com)
