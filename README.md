@@ -1,8 +1,8 @@
 # Hi, I'm Amina 👋
 
 ## About
-- 🔭 I’m currently adding new features to Miammy, a **Food recipe app** and building a **Productivity app** with React Native and **Typescript**
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently building a **Productivity mobile app** with **React Native**, **Typescript**, and **GraphQL**
+- 🌱 I’m currently learning **Java** and **Angular**
 - 💬 Ask me about anything
 - 📫 How to reach me: 
   - [amina.thiam.pro@gmail.com](mailto:amina.thiam.pro@gmail.com)
