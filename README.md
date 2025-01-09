@@ -1,6 +1,7 @@
-# Hi, I'm Amina a Java and Angular Software Engineer 👋
+# Hi, I'm Amina 👋
 
 ## About
+- 💼 I'm a Java and Angular Software Engineer
 - 🔭 I’m currently building a **Productivity mobile app** with **Swift**
 - 🌱 I’m currently learning **Swift**
 - 💬 Ask me about anything
@@ -10,7 +11,7 @@
 
 
 ## Technologies
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-4476C0?logo=firebase&logoColor=white&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,9 +36,6 @@
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?logo=adobe-creative-cloud&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFD700?logo=firebase&logoColor=white&style=for-the-badge)
 
-
-## Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amina197&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
